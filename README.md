@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debarghya654
+- 👋 Hi, I’m Debarghya Das.
 - 👀 I’m interested in Software Development, Web Technology, and AI.
 - 🌱 I’m currently pursuing BCA from Techno College Hooghly.
 - 💞️ I want to collaborate on open-source projects, innovative software solutions, web development initiatives, and AI-driven applications.
