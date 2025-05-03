@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET**
 
-- 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/5360688224460250780?pli=1](https://www.blogger.com/u/1/blog/posts/5360688224460250780?pli=1)
+- 📝 I regularly write articles on [Blogger.com](https://www.blogger.com/u/1/blog/posts/5360688224460250780?pli=1)
 
 - 💬 Ask me about **PHP, MERN and Python**
 
