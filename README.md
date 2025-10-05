@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Debarghya Das</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Engineer from India</h3>
 
 <p align="right">
   <img align="right" alt="Coder" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
