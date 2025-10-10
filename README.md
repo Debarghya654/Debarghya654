@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET**
 
-- 📝 I regularly write articles on [Blogger.com](https://debarghya04das.blogspot.com/)
-
 - 💬 Ask me about **PHP, MERN and Python**
 
 - 📫 How to reach me **dasdebarghya586@gmail.com**
