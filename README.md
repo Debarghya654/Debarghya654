@@ -74,4 +74,4 @@
 ---
 
 <h3 align="left">Road Card:</h3>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/698dfde712539ef4f3a1ca33?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/698dfde712539ef4f3a1ca33?variant=dark)](https://roadmap.sh)
